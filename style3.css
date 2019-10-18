@@ -82,6 +82,10 @@
     margin: 43%;
 }
 
+.look:hover{
+    display: none;
+}
+
 /*Load more*/
 
 .more{
@@ -167,7 +171,11 @@ video{
 .services_inner{
     width: 1366px;
     height: 535px;
-    background-color: #f5f5f5;
+    background-color: black;
+
 
 }
 
+iframe{
+    frameborder="0"
+}
