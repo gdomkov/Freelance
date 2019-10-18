@@ -1,0 +1,173 @@
+/*Numbers*/
+
+.numbers_inner{
+    width: 1366px;
+    height: 240px;
+    background-color: #10c9c3;
+}
+
+.numbers_content{
+    position: relative;
+    top: 40%;
+    height: 30%;
+    width: 90%;
+/*    background-color: black;*/
+    left: 8%;
+}
+
+.port, .clock, .star, .like{
+    width: 300px;
+    display: inline-block;
+}
+.tex{
+    width: 200px;
+    position: absolute;
+    padding: 0%;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: #ffffff;
+    font-family: "Montserrat";
+    font-weight: 500;
+    text-transform: uppercase;
+
+    position: relative;
+    left: 75px;
+    top: -67px;
+}
+
+.num{
+    font-size: 18px;
+}
+
+
+/*Work*/
+
+.work_inner{
+    height: 700px;
+    width: 100%;
+}
+
+.block1{
+    width: 100%;
+    height: 300px;
+}
+
+.block2{
+    width: 100%;
+    height: 300px;
+}
+
+.p1, .p3, .p4, .p6, .p8{
+    height: 300px;
+    width: 341px;
+    float: left;
+    background-color: #838383;
+}
+
+.p2, .p4, .p5, .p7{
+    height: 300px;
+    width: 342px;
+    float: left;
+    background-color: #dddddd;
+}
+
+.p6{
+    background-color: #141414;
+}
+
+/*image*/
+
+.look{
+    margin: 43%;
+}
+
+/*Load more*/
+
+.more{
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: #8e8e8e;
+    font-family: "Montserrat";
+    font-weight: 500;
+
+    width: 100%;
+    height: 100px;
+    background-color: #f5f5f5;
+
+    border: 0;
+    padding: 0;
+    outline: 0;
+
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.more:active{
+    background-color: #dddddd;
+}
+
+/*Video*/
+
+.check{
+/*    padding: 10px;*/
+    display: none;
+
+    height: 930px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.t1{
+    font-size: 30px;
+    letter-spacing: 0px;
+    line-height: 45px;
+    color: #191919;
+    font-family: "Montserrat";
+    font-weight: 500;
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 25px;
+    margin: 0;
+}
+
+.t2{
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #787878;
+    font-family: "Nunito Sans";
+    font-weight: 400;
+    text-align: center;
+
+    margin: 0 auto;
+    max-width: 37%;
+}
+
+.vid{
+    width: 1170px;
+    height: 571px;
+    background-color: #e9e9e9;
+
+/*    padding-top: 50%;*/
+    margin: 0 auto;
+
+    position: relative;
+    top: 5%;
+}
+
+video{
+    width: 1170px;
+    height: 571px;
+}
+
+/*Services*/
+
+.services_inner{
+    width: 1366px;
+    height: 535px;
+    background-color: #f5f5f5;
+
+}
+

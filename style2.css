@@ -1,0 +1,147 @@
+/*About*/
+
+.about_inner{
+    height: 420px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.about_title{
+    font-size: 30px;
+    letter-spacing: 0px;
+    line-height: 60px;
+    color: #191919;
+    font-family: "Montserrat";
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+
+    padding-top: 7%;
+
+}
+
+.about_text{
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #787878;
+    font-family: "Nunito Sans";
+    font-weight: 400;
+    text-align: center;
+
+    margin-left: 24%;
+    margin-right: 24%;
+
+    padding-top: 1%;
+}
+
+.about_img{
+    padding-top: 3%;
+}
+
+/*Skills*/
+
+.skills_inner{
+    height: 570px;
+    max-width: 50%;
+    background-color: #f8f9f9;
+}
+
+.skills_content{
+    max-width: 50%;
+    padding: 14%;
+    padding-top: 20%;
+}
+
+.st{
+    font-size: 30px;
+    letter-spacing: 0px;
+    line-height: 84px;
+    color: #171717;
+    font-family: "Montserrat";
+    font-weight: 500;
+
+    top: 160px;
+}
+
+/*
+.img_here{
+    width: 50%;
+    height: 570px;
+    position: absolute;
+    right: 0;
+    float: left;
+    background-color: aqua;
+}
+*/
+/*Text*/
+.des p{
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: #000000;
+    font-family: "Montserrat";
+    font-weight: 500;
+
+    text-transform: uppercase;
+}
+
+.dev p{
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: #000000;
+    font-family: "Montserrat";
+    font-weight: 500;
+
+    text-transform: uppercase;
+}
+
+.mar p{
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: #000000;
+    font-family: "Montserrat";
+    font-weight: 500;
+
+    text-transform: uppercase;
+}
+
+/*Lines*/
+
+.gray{
+    width: 500px;
+    height: 3px;
+    background-color: #d8d8d8;
+
+    position: relative;
+    bottom: 6px;
+}
+
+.blue_1{
+    width: 336px;
+    height: 3px;
+    background-color: #10c9c3;
+
+    position: relative;
+    bottom: 9px;
+}
+
+.blue_2{
+    width: 428px;
+    height: 3px;
+    background-color: #10c9c3;
+
+    position: relative;
+    bottom: 9px;
+}
+
+.blue_3{
+    width: 280px;
+    height: 3px;
+    background-color: #10c9c3;
+
+    position: relative;
+    bottom: 9px;
+}
