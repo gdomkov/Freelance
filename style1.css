@@ -26,19 +26,15 @@ h1, h2, h3, h4, h5, h6{
     /*Header*/
 
 .header{
-/*    width: 100px;*/
-
     position: absolute;
     top: 35px;
     right: 0;
     left: 0;
-/*    z-index: 1000;*/
 }
 
 .header_inner{
     display: flex;
     justify-content: space-between;
-/*    align-items: center;*/
 }
 
 .header_logo{
@@ -58,10 +54,7 @@ h1, h2, h3, h4, h5, h6{
     font-weight: 500;
 }
 .nav_link{
-/*    display: inline-block;*/
-/*    vertical-align: top;*/
     margin: 0 15px;
-/*    position: relative;*/
 
     color: #000000;
     text-decoration: none;
@@ -70,10 +63,6 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .nav_link:after{
-/*    position: absolute;*/
-/*    top: 100%;*/
-/*    left: 0;*/
-/*    z-index: 1;*/
 }
 .nav_link:hover{
     color: #1ecbc5;
@@ -86,23 +75,23 @@ h1, h2, h3, h4, h5, h6{
     /*Intro*/
 
 .intro{
-/*
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-*/
-
-    width: 100%;
+    width: 1366px;
     height: 670px;
 
+    margin: 0 auto;
+}
+
+#bg{
+    height: 670px;
+    width: 1366px;
 }
 
 .intro_inner{
     width: 100%;
     max-width: 1366px;
-/*    margin: 0 auto;*/
     position: absolute;
     top: 215px;
+
 }
 .title{
     font-size: 38px;
