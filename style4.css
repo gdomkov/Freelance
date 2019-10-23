@@ -245,6 +245,7 @@
     border: 0;
     padding: 0;
     outline: 0;
+    cursor: pointer;
 }
 
 .but:active{
@@ -319,6 +320,11 @@
     position: absolute;
     top: 0;
     padding: 0 41%;
+}
+
+#mail{
+    color: #bcbcbc;
+    text-decoration: none;
 }
 
 .links{

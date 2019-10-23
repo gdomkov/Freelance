@@ -62,6 +62,7 @@
     width: 341px;
     float: left;
     background-color: #838383;
+    background-image: url(image/work/your%20img%20here.png);
 }
 
 .p2, .p4, .p5, .p7{
@@ -69,10 +70,12 @@
     width: 342px;
     float: left;
     background-color: #dddddd;
+    background-image: url(image/work/your%20img%20here%201.png);
 }
 
-.p6{
-    background-color: #141414;
+.p1:hover, .p2:hover, .p3:hover, .p4:hover, .p5:hover, .p6:hover, .p7:hover, .p8:hover{
+    background-image: url(image/work/Look.png);
+    opacity: 0.8;
 }
 
 /*image*/
@@ -105,6 +108,7 @@
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
+    cursor:pointer;
 }
 
 .more:active{
